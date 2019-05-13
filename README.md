@@ -2,6 +2,7 @@
 Simple RPA demo with selenium
 
 To run:
+
 pip install selenium
 
 pip install webdriver_manager
