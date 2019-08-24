@@ -1,7 +1,7 @@
 # rpa-login-selenium
 Login to Outlook w/ Python selenium
 
-To run:
+**To run:**
 
 ```
 pip install selenium
